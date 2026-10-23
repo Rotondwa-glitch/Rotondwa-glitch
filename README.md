@@ -2,7 +2,7 @@
 
 #  Hi, I’m an Aspiring Software Developer & IT Technician
 
-**IT Diploma Student | C#/.NET Developer in Training | Flutter Developer in Training**  
+**IT Diploma Student | C#/.NET Developer  | Flutter Developer **  
 📍 South Africa 🇿🇦
 
 </div>
@@ -100,8 +100,8 @@ These are portfolio projects I plan to build as I continue learning.
 
 I’m open to learning opportunities, junior IT roles, internships, software development opportunities, and collaboration on projects.
 
-* 💼 LinkedIn: *Add your LinkedIn profile*
-* 📧 Email: *Add your professional email address*
+* 💼 LinkedIn: https://www.linkedin.com/in/rotondwa-madi-720049218/
+* 📧 Email: giftmadi0407@gmail.com
 * 🐙 GitHub: [Rotondwa-glitch](https://github.com/Rotondwa-glitch)
 
 ---

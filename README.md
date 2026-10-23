@@ -6,9 +6,9 @@
 IT Diploma Student · C# / .NET · Flutter  
 South Africa
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rotondwa-madi-720049218/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:giftmadi0407@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Rotondwa-glitch)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rotondwa-madi-720049218/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:giftmadi0407@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-24292F?style=flat-square&logo=github&logoColor=white)](https://github.com/Rotondwa-glitch)
 
 </div>
 
@@ -90,8 +90,8 @@ These projects form the foundation of my developing portfolio as I continue to e
 ### GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rotondwa-glitch&show_icons=true&theme=default&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rotondwa-glitch&layout=compact&theme=default&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="165" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rotondwa-glitch&show_icons=true&theme=transparent&hide_border=true&title_color=0969da&icon_color=0969da&text_color=24292f&bg_color=ffffff" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rotondwa-glitch&layout=compact&theme=transparent&hide_border=true&title_color=0969da&text_color=24292f&bg_color=ffffff" height="165" alt="Top Languages" />
 </div>
 
 ---

@@ -1,8 +1,8 @@
 <div align="center">
 
-# 👋 Hi, I’m an Aspiring Software Developer & IT Technician
+#  Hi, I’m an Aspiring Software Developer & IT Technician
 
-**💻 IT Diploma Student | C#/.NET Developer in Training | Flutter Developer in Training**  
+**IT Diploma Student | C#/.NET Developer in Training | Flutter Developer in Training**  
 📍 South Africa 🇿🇦
 
 </div>
@@ -13,7 +13,7 @@ My goal is to become a well-rounded IT professional who can build useful applica
 
 ---
 
-### 🚀 About Me
+### About Me
 
 * 🎓 Currently pursuing a **Diploma in Information Technology**
 * 💻 Learning **C#, .NET, ASP.NET Core, Flutter, and Dart**
@@ -25,7 +25,7 @@ My goal is to become a well-rounded IT professional who can build useful applica
 
 ---
 
-### 🧰 Tech Stack
+### Tech Stack
 
 **Programming & Development**  
 `C#` · `.NET` · `ASP.NET Core` · `Flutter` · `Dart` · `HTML` · `CSS` · `JavaScript` · `SQL`
@@ -54,7 +54,7 @@ These are portfolio projects I plan to build as I continue learning.
 
 ---
 
-### 📚 Currently Learning
+### Currently Learning
 
 * Object-oriented programming with **C#**
 * Building **REST APIs** with ASP.NET Core
@@ -65,7 +65,7 @@ These are portfolio projects I plan to build as I continue learning.
 
 ---
 
-### 🎯 My Career Goals
+### My Career Goals
 
 * Build a strong software development portfolio
 * Develop practical **C#/.NET backend** and **Flutter frontend** skills
@@ -75,7 +75,7 @@ These are portfolio projects I plan to build as I continue learning.
 
 ---
 
-### 📂 Current Projects on GitHub
+### Current Projects on GitHub
 
 | Project | Description |
 |---------|-------------|
@@ -87,7 +87,7 @@ These are portfolio projects I plan to build as I continue learning.
 
 ---
 
-### 📈 GitHub Stats
+### GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Rotondwa-glitch&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="160"/>
@@ -96,7 +96,7 @@ These are portfolio projects I plan to build as I continue learning.
 
 ---
 
-### 🤝 Let’s Connect
+### Let’s Connect
 
 I’m open to learning opportunities, junior IT roles, internships, software development opportunities, and collaboration on projects.
 
@@ -108,7 +108,7 @@ I’m open to learning opportunities, junior IT roles, internships, software dev
 
 <div align="center">
 
-⭐ **Thanks for visiting my profile.**  
+ **Thanks for visiting my profile.**  
 I’m learning, building, and improving one project at a time.
 
 </div>

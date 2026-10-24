@@ -42,15 +42,21 @@ I am an Information Technology student focused on developing practical skills in
 
 ---
 
+### Featured Project
+
+**[Student Assistant Application](https://github.com/Rotondwa-glitch/Student-Assistant-Application)** — Flutter + Supabase  
+Student assistant system with Supabase authentication, student management, document uploads, and application status tracking.
+
+---
+
 ### Portfolio Projects (In Progress)
 
 | Project | Description | Stack |
 |---------|-------------|-------|
+| **[Student Assistant Application](https://github.com/Rotondwa-glitch/Student-Assistant-Application)** | Student assistant system with auth, student management, document uploads, and status tracking | Flutter, Dart, Supabase |
 | **IT Help Desk Tracker** | Support ticket system for logging technical issues, tracking status, and managing IT requests | C#, .NET, SQL |
 | **Small Business Inventory App** | Application for managing products, stock levels, and inventory records | Flutter, Dart, C#/.NET, SQL |
 | **Full-Stack Booking App** | Appointment scheduling and booking management with a mobile-friendly interface | Flutter, ASP.NET Core Web API, SQL |
-
-These projects form the foundation of my developing portfolio as I continue to expand my skills.
 
 ---
 
@@ -79,6 +85,7 @@ These projects form the foundation of my developing portfolio as I continue to e
 
 | Repository | Description |
 |------------|-------------|
+| [Student-Assistant-Application](https://github.com/Rotondwa-glitch/Student-Assistant-Application) | Flutter student assistant system with Supabase auth, student management, document uploads, and application status tracking |
 | [vehicle-management-app](https://github.com/Rotondwa-glitch/vehicle-management-app) | Vehicle management system with add, edit, delete, and status tracking (active / inactive / maintenance) |
 | [Contact-Book-APP](https://github.com/Rotondwa-glitch/Contact-Book-APP) | Contact management application (add, edit, delete) |
 | [Pine-City-Zoo](https://github.com/Rotondwa-glitch/Pine-City-Zoo) | Interactive zoo map and information site |
